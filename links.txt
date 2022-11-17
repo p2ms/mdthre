@@ -1,0 +1,7 @@
+https://www.flutterant.com/email-validation-in-the-flutter/
+
+https://medium.com/@Igor0Ruan/realizando-autentica%C3%A7%C3%A3o-no-firebase-com-o-flutter-b7698cbfa55
+
+https://pub.dev/packages/firebase_core/example
+
+https://www.macoratti.net/19/10/flut_loginapi1.htm
