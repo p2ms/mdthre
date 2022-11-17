@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124240395013",
+    "project_id": "melhoresalunosnoite",
+    "storage_bucket": "melhoresalunosnoite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124240395013:android:4e604c456aa3eb2269156c",
+        "android_client_info": {
+          "package_name": "br.com.paulofelix.flutter_firebase_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124240395013-nb75bedn4g7js1fg7l0tgigufuhi0n5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3yqMuo6y7czFoqnCTb0J34LdVxZiq5bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124240395013-nb75bedn4g7js1fg7l0tgigufuhi0n5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
